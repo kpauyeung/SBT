@@ -8,7 +8,7 @@ Module Contents
 ---------------
 
 
-.. py:class:: Bloomberg
+.. py:class:: Bloomberg(**kwargs)
 
    Bases: :class:`SBTi.data.data_provider.DataProvider`
 

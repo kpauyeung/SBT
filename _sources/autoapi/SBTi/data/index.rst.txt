@@ -171,7 +171,7 @@ Package Contents
 
 
 
-.. py:class:: Bloomberg
+.. py:class:: Bloomberg(**kwargs)
 
    Bases: :class:`SBTi.data.data_provider.DataProvider`
 
@@ -265,7 +265,7 @@ Package Contents
 
 
 
-.. py:class:: ISS
+.. py:class:: ISS(**kwargs)
 
    Bases: :class:`SBTi.data.data_provider.DataProvider`
 

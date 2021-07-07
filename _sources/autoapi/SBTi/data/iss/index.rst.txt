@@ -8,7 +8,7 @@ Module Contents
 ---------------
 
 
-.. py:class:: ISS
+.. py:class:: ISS(**kwargs)
 
    Bases: :class:`SBTi.data.data_provider.DataProvider`
 
